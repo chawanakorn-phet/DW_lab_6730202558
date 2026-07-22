@@ -9,4 +9,6 @@ sources:
       external_location: 'datasets/{name}.csv'
     tables:
       - name: customer                  # Maps straight to datasets/customer.csv
-        description: "Customer data from the Northwind dataset"
+        description: "customer data from the Northwind dataset"
+      - name: products                  # Maps straight to datasets/customer.csv
+        description: "  products data from the Northwind dataset"
