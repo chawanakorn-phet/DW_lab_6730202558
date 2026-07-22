@@ -28,6 +28,8 @@ sources:
         description: "orders_tax_status data from the Northwind dataset"
       - name: order_details
         description: "order_details data from the Northwind dataset"
+      - name: order_details_status
+        description: "order_details_status data from the Northwind dataset"
       - name: privileges
         description: "privileges data from the Northwind dataset"
       - name: products
